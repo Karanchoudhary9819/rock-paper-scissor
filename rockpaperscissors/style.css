@@ -1,0 +1,48 @@
+.rock-button {
+    color: wheat;
+    background-color: black;
+    padding: 100px;
+    font-size: 50px;
+    border-radius: 300px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right:100px;
+    margin-top: 100px;
+   
+}
+.heading {
+    color: rgb(2, 1, 6);
+    font-family: Verdana;
+    margin-left: 450px;
+    font-size: 50px;
+}
+.page{
+   
+    background-color: rgb(118, 146, 239);
+}
+.paper-button{
+    color: wheat;
+    background-color: black;
+    padding: 100px;
+    font-size: 50px;
+    
+    border-radius: 300px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right:100px;
+    margin-top: 100px;
+    border-style: solid;
+}
+.scissor-button{
+    color: wheat;
+    background-color: black;
+    padding: 100px;
+    font-size: 50px;
+    border-radius: 300px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right:100px;
+    margin-top: 100px;
+    border-style: solid;
+    
+}
